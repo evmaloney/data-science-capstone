@@ -5,5 +5,18 @@ Global warming and climate change has our planet careening toward a catostrophic
 
 We know that CO2 output from vehicles is one of the greatest contributors to the problem of climate change, but exactly who is contributing to it the most? Is it the rich executive driving the $250,000 Bentley? Is it the college student driving an old Nissan? Or is the somewhere in between - maybe a middle class parent driving a $25,000 Honda Accord?
 
-### Hypothesis
-The hyphothesis is that, in general, the higher end car brands output the highest levels of CO2 and the trend continues downward to lower end brands outputting the lowest amounts of CO2. Using emissions factors of CO2 grams per mile for each brand's vehicles will help in finding this to be true or not.
+---
+
+#### Hypothesis
+The hyphothesis is that, in general, the higher end car brands output the highest levels of CO2 and the trend continues downward to lower end brands outputting the lowest amounts of CO2. Using emissions factors of CO2 grams per mile for each brand's vehicles, we will be able to build a model to predict what brands are having a greater contribution to climate change.
+
+#### 
+
+#### Risks
+The main risk I see is the factor or yearly outputs. Because our dataset dates back to 1984, technology has come a long way and a certain car brand that maybe, in comparison to others, had higher CO2 emmissions in 1984 may not neccessarily today and vice versa. This may blur our overall findings.
+
+---
+
+### Dataset
+I will be using this dataset to work with: https://www.kaggle.com/datasets/epa/fuel-economy/
+I've already downloaded the CSV file.
