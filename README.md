@@ -1,5 +1,7 @@
 # Data Science Capstone Project
 
+## ***EDIT: I've decided to rework this. I will be comparing two of the more popular cars bought by/for teens or adults in their early 20s. Often times, a car buyer becomes loyal to a car make and model if the car has always done well by them. Because of this, I would like to use the dataset to compare and predict CO2 emissions of the Honda Accord and the Toyota Camry. This way, the car buyer can develop a loyalty to the car that models a lower emissions output for future buys and parents buying cars for their teens can set them up to have less of an impact on climate change.
+
 ### Problem Statement
 Global warming and climate change has our planet careening toward a catostrophic situation of unbeknownst proportions. We as a society, need to do better. The question is, who is most to blame and in turn, and who needs to do the most to change?
 
